@@ -24,12 +24,10 @@ independent_reporting 15, press_release 12, partner_statement 9, vendor_claim 2.
 
 Hinduja, M. (2026). *Humanoid Pilot Registry* (v1.0) [Data set]. Supplement to "From Demo to Deployment: What Predicts Humanoid Pilot Conversion?" GitHub. https://github.com/mh7909-cmd/humanoid-pilot-registry
 
-Replace `<username>` with the account hosting this repository.
-
 ## License
 
 The data is released under CC BY 4.0. You may share and adapt it with attribution.
 
 ## Versioning
 
-- v1.0 (September 2026): initial public release, matching the working paper's frozen registry. Future versions will note recoding decisions in this file.
+- v1.0 (September 2026): initial public release, matching the working paper's frozen registry. Audit corrections applied September 22, 2026 (evidence fields only; no recoding, stage mix unchanged). Future versions will note recoding decisions in this file.
